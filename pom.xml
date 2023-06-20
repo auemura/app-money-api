@@ -20,7 +20,7 @@
 		<mysql.version>8.0.20</mysql.version>
 		<lombok.version>1.16.16</lombok.version>
 		<apache.commons.version>3.4</apache.commons.version>
-		<oauth2.version>2.1.0.RELEASE</oauth2.version>
+		<oauth2.version>2.1.4.RELEASE</oauth2.version>
 		<jwt.version>1.1.0.RELEASE</jwt.version>
 		<dbcp.version>1.4</dbcp.version>
 	</properties>
